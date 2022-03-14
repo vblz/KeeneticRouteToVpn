@@ -1,6 +1,6 @@
 # KeeneticRouteToVpn [![build](https://github.com/vblz/KeeneticRouteToVpn/actions/workflows/tests.yml/badge.svg)](https://github.com/vblz/KeeneticRouteToVpn/actions/workflows/tests.yml) [![Coverage Status](https://coveralls.io/repos/github/vblz/KeeneticRouteToVpn/badge.svg?branch=master)](https://coveralls.io/github/vblz/KeeneticRouteToVpn?branch=master)
 
-KeeneticRouteToVpn is simple app updating Keenetic Router rules for some hosts to go through VPN interface.
+KeeneticRouteToVpn is simple app updating Keenetic Router rules for a list of hosts to route them through VPN interface.
 
 It has defaults values and just need to be provided with a text files containing lists of hosts needed access through VPN.
 
